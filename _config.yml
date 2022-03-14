@@ -1,6 +1,6 @@
-title:              Ruzzek
+title:              Ruzzek's Blog
 email:              danilojpalma@protonmail.com
-description:        A Blog Theme by ruzzek
+description:        Mis apuntes sobre diseño, tecnología y trabajo remoto
 author:             Danilo J. Palma
 baseurl:            ""
 url:                "https://ruzzek.com"
@@ -9,7 +9,7 @@ url:                "https://ruzzek.com"
 twitter_username:   
 github_username:    
 facebook_username:  
-instagram_username:  
+instagram_username:  ruzzek.design
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
